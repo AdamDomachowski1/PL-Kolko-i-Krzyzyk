@@ -1,0 +1,3 @@
+C:/Users/adoma/source/repos/AdamDomachowski1/-PL-Kolko-i-Krzyzyk/out/build/x64-debug/CMakeFiles/OX.dir
+C:/Users/adoma/source/repos/AdamDomachowski1/-PL-Kolko-i-Krzyzyk/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/adoma/source/repos/AdamDomachowski1/-PL-Kolko-i-Krzyzyk/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
